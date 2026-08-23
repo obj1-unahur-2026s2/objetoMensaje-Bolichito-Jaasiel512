@@ -580,3 +580,7 @@
 {"level":"info","message":"⌛ Validating objetoMensaje-Bolichito-Jaasiel512/cosas.wlk","timeElapsed":108,"timestamp":"2026-08-23T21:52:05.866Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":136,"timestamp":"2026-08-23T21:59:30.187Z"}
 {"level":"info","message":"⌛ Validating objetoMensaje-Bolichito-Jaasiel512/personas.wlk","timeElapsed":155,"timestamp":"2026-08-23T21:59:30.349Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":152,"timestamp":"2026-08-23T22:23:06.212Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":125,"timestamp":"2026-08-23T22:23:06.338Z"}
+{"level":"info","message":"Removing diagnostics from /f:/Programacion con Objetos 1/Bolichero/log/wollok.log","timestamp":"2026-08-23T22:23:06.453Z"}
+{"level":"info","message":"⌛ Validating objetoMensaje-Bolichito-Jaasiel512/bolichito.wlk","timeElapsed":122,"timestamp":"2026-08-23T22:23:06.863Z"}
